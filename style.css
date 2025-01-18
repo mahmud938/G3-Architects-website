@@ -162,7 +162,21 @@ main > section{
 
 .featured-architect img{
    width: 100%;
+   height: 100%;
 }
+
+.featured-architect{
+  position: relative;
+  border: 1px solid red;
+}
+
+.featured-button{
+  position: absolute;
+  left: -50px;
+  bottom: -50px;
+}
+
+
 
         /* some facts related styles */
 
